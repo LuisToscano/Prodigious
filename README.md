@@ -1,7 +1,7 @@
 # Prodigious
 Prueba de desarrollo móvil presentada para Prodiguous.
 
-/***************************** Enunciado ************************************/
+***************************** Enunciado ************************************
 
 Create an app that will show a list of posts, which you can save and view their details. You will consume a webservice (either using your own webservice or a sample one like https://jsonplaceholder.typicode.com/)) The app should be able to:
 
@@ -15,6 +15,7 @@ Create an app that will show a list of posts, which you can save and view their 
 8. Handle data refresh with table dragging
 
 ************************* Herramientas Utilizadas **************************
+
 AngularJS
 Ionic Framework
 Gulp JS (SASS y minificado JS)
